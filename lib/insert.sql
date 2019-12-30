@@ -2,7 +2,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("3", "5", 200, "6/1/19", "6/30/19");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("adfg", "erg", 85, "6/1/19", "6/30/19");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("sdv", "waeg", 55, "6/1/19", "6/30/19");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("dfbs", "gyjfghj" 150, "6/1/19", "6/30/19");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("dfbs", "gyjfghj", 150, "6/1/19", "6/30/19");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("sdfh", "sdh", 52, "7/1/19", "7/31/19");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("sdfg", "ddfvbsdfb", 900, "7/1/19", "7/31/19");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("sadf", "there", 359, "7/1/1", "7/31/19");
