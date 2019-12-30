@@ -3,11 +3,11 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("adfg", "erg", 85, "6/1/19", "6/30/19");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("sdv", "waeg", 55, "6/1/19", "6/30/19");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("dfbs", "gyjfghj" 150, "6/1/19", "6/30/19");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("sdfh", "Domestic Violence", 65, "7/1/19", "7/31/19");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Wig Making", "Cancer Survivors", 1000, "7/1/19", "7/31/19");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Somewhere", "there", 500, "7/1/1", "7/31/19");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Whatever", "Anything Goes", 26, "7/1/19", "7/31/19");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Veterans", 23, "7/1/19", "7/31/19");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("sdfh", "sdh", 52, "7/1/19", "7/31/19");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("sdfg", "ddfvbsdfb", 900, "7/1/19", "7/31/19");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("sadf", "there", 359, "7/1/1", "7/31/19");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("waer", "SDv", 26, "7/1/19", "7/31/19");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("SDFs", 23, "7/1/19", "7/31/19");
 
 INSERT INTO users (name, age) VALUES ("James Lenahan", 25);
 INSERT INTO users (name, age) VALUES ("Carolyn Lenahan", 29);
